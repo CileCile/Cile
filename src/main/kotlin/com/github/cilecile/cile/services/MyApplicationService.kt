@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cilecile.cile.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cilecile.cile.MyBundle
 
 class MyApplicationService {
 
